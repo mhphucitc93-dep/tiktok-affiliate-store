@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Affiliate Store",
+  "description": "Ứng dụng Web bán hàng TikTok Affiliate với tự động trích xuất dữ liệu link, ghép khung Sale Canvas và Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
